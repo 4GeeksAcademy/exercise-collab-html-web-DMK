@@ -4,7 +4,7 @@ body{
 
 .wrapper {
     object-fit: cover;
-    height: 600px;
+    height: 700px;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -25,4 +25,8 @@ body{
   .inner-wrapper {
     position: relative;
     margin-bottom: 12%;
+  }
+
+  #first_head {
+    padding-top: 110px;
   }
